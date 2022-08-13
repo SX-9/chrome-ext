@@ -1,0 +1,10 @@
+{
+    "name": "Mega Lag",
+    "description": "(DO NOT ENABLE) Lag Your PC!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage"]
+}
